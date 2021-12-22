@@ -1,7 +1,7 @@
 # SecretSanta #
 
-This app takes a CSV list of names and email addresses and randomizes the list to match an address to a name, then sends an email to the recipient with the name of the person they have been matched with gifting.
-People should never get their own names. This effectively acts as a virtual "name in the hat" to help with Covid/distance complications WRT secret santa celebrations.
+This app takes a CSV list of names and email addresses and randomizes the list to match an address to a name, then sends an email to each recipient with the name of the person they have been matched with gifting.
+The randomizer avoids sending people their own names. This effectively acts as a virtual "name in the hat" to help with Covid/distance complications WRT secret santa celebrations.
 
 SecretSanta requires a Mandrill Transactional Email account. (Don't have one? Know Sonya? Just reach out!)
 
