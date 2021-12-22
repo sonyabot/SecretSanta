@@ -11,26 +11,26 @@ following this pattern:
 name, email /* newline */
 name, email
 
-** Step 1: **
+**Step 1:**
 
 Clone the repo
 
-** Step 2: **
+**Step 2:**
 
 visit the Secret Santa app locally in terminal
 
-** Step 3: **
+**Step 3:**
 
 run `php app.php`
 
-** Step 4: **
+**Step 4:**
 
 input your API Key when prompted
 
-** Step 5: **
+**Step 5:**
 
 input the path to your CSV file when prompted
 
-~Done~
+*Done*
 
 You should be able to see your sent emails in your Mandrill account.
