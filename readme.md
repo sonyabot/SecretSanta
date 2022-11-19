@@ -29,7 +29,7 @@ input your API Key when prompted
 
 **Step 5:**
 
-input the path to your CSV file when prompted
+input the path to your CSV file when prompted. Ex: ../Downloads/secret_santa.csv
 
 *Done*
 
