@@ -45,7 +45,7 @@ class SecretSanta
         $names = array_keys($this->rows);
         $matches = [];
         shuffle($names);
-        for ($i = 0; $i < count($names); $i++) {
+        for ($i = 0, $iMax = count($names); $i < $iMax; $i++) {
             if ($i === count($names) -1) {
                 $matches[$names[$i]] = $names[0];
             } else {
